@@ -1,0 +1,13 @@
+:root{
+    --color-primary: #f5cf06;
+    --color-secondary: #8E4106;
+    --font-family: 'Righteous', sans-serif;
+  
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
